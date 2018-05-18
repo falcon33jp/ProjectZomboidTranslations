@@ -2,8 +2,8 @@
 
 	-- Japanese Translation Data Information
 	-- Update history
-	-- Build-39.56
-	-- Date 05-05-2018
+	-- Build-39.60
+	-- Date 05-19-2018
 	-- Official Japanese Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -227,6 +227,10 @@
 	Sandbox_ErosionSpeed_option3 = "普通 (100日)",
 	Sandbox_ErosionSpeed_option4 = "遅い (200日)",
 	Sandbox_ErosionSpeed_option5 = "とても遅い (500日)",
+
+	Sandbox_ErosionDays = "浸食日数",
+	Sandbox_ErosionDays_tooltip = "100％浸食するまでの日数を細かく設定することができます。\n設定を-1にすると浸食が無効になります。\n設定を0にした場合は、(侵食の早さ)の設定に依存します。\n1=(1日) 365=(1年) 最大数値 36500=(100年)",
+	Sandbox_CarDamageOnImpact_tooltip = "車両がクラッシュした際に受けるダメージ量を設定します。",
 
 	Sandbox_FarmingSpeed = "農作物の成長速度",
 	Sandbox_FarmingSpeed_option1 = "とても速い",

@@ -2,8 +2,8 @@
 
 	-- Japanese Translation Data Information
 	-- Update history
-	-- Build-39.56
-	-- Date 05-05-2018
+	-- Build-39.60
+	-- Date 05-19-2018
 	-- Official Japanese Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -498,7 +498,7 @@
 	DisplayName_Sock = "靴下",
 	DisplayName_Spade = "スコップ",
 	DisplayName_Spear = "木製の槍",
-	DisplayName_Spiffo = "縫い包み",
+	DisplayName_Spiffo = "ぬいぐるみ",
 	DisplayName_Splint = "そえ木",
 	DisplayName_Spoon = "食事用器具(スプーン)",
 	DisplayName_Stairs_Piece = "階段の一部分",

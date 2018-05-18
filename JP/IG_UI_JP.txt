@@ -2,8 +2,8 @@
 
 	-- Japanese Translation Data Information
 	-- Update history
-	-- Build-39.56
-	-- Date 05-05-2018
+	-- Build-39.60
+	-- Date 05-19-2018
 	-- Official Japanese Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -755,7 +755,7 @@
 	IGUI_VehicleNamePickUpVanLightsPolice = "ダッシュ ブルドライバー", 
 	IGUI_VehicleNameOffRoad = "ダッシュ ランチャー", 
 	IGUI_VehicleNameCarLuxury = "マーシーアー ラング 4000", 
-	IGUI_VehicleNameVanSpiffo = "スピフォー バン", 
+	IGUI_VehicleNameVanSpiffo = "フランクリン バリューライン", 
 	IGUI_VehicleNameVanSeats = "フランクリン バリューライン", 
 	IGUI_VehicleNameCarStationWagon = "シェバリア セリーズ ワゴン", 
 	IGUI_VehicleNameCarStationWagon2 = "シェバリア セリーズ ワゴン", 
@@ -789,7 +789,7 @@
 	IGUI_Vehicle_CondInfoTireRearLeft = "低いコンディションのタイヤは路面摩擦が少なくなります。 <LINE>タイヤの状態や空気圧力が不足していると、タイヤが破裂することがあります。",
 	IGUI_Vehicle_CondInfoTireRearRight = "低いコンディションのタイヤは路面摩擦が少なくなります。 <LINE>タイヤの状態や空気圧力が不足していると、タイヤが破裂することがあります。",
 	IGUI_ItemNameMechanicalType = "%1(%2用)",
-	IGUI_InfoPanel_Mechanics = "<CENTRE> <SIZE:medium> 車両整備・パネル <LINE> <LINE> <LEFT> <SIZE:small> 車両整備パネルは、エンジン出力やタイヤ等の車両状態、車両整備に関する情報を提供します。 <LINE> <LINE> 右側には、車両に取り付けられた部品と名称が表示されています。  <LINE> <LINE> 車両部品を右クリックすると、部品を取り付け、取り外しすることを確認することができます。 <LINE> <LINE> 車両の部品を左クリックすると、車両整備メニューの上部に各車両部品の詳細情報が表示されます。 <LINE> <LINE> 車両の種類は、普通車、大型車、スポーツ車に分類されています。 <LINE> <LINE> 各車両に適合した自動車部品を取り付けることができます。 <LINE> <LINE> 個々の部品を交換修理するには、最初に部品を取り外す必要があります。",
+	IGUI_InfoPanel_Mechanics = "<CENTRE> <SIZE:medium> 車両整備・パネル <LINE> <LINE> <LEFT> <SIZE:small> 車両整備パネルは、エンジン出力やタイヤ等の車両状態、車両整備に関する情報を提供します。 <LINE> <LINE> 右側には、車両に取り付けられた部品と名称が表示されています。  <LINE> <LINE> 車両部品を右クリックすると、部品を取り付け、取り外しすることを確認することができます。 <LINE> <LINE> 車両の部品を左クリックすると、車両整備メニューの上部に各車両部品の詳細情報が表示されます。 <LINE> <LINE> 車両の種類は、普通車両、大型車両、スポーツ車両に分類されています。 <LINE> <LINE> 各車両に適合した自動車部品を取り付けることができます。 <LINE> <LINE> 個々の部品を交換修理するには、最初に部品を取り外す必要があります。",
 	IGUI_CarKey = "%1 キー(車両)",
 	IGUI_SeatMiddleRight = "中央右シート",
 	IGUI_SeatMiddleLeft = "中央左シート",
@@ -859,5 +859,6 @@
 	IGUI_ServerToolBox_Invite4 = "あなたの友人がプロジェクトゾンボイドを閉じていれば、Steamはゲームを起動します。",
 	IGUI_ServerToolBox_Invite5 = "招待状は、特別なパラメータやチャットボックスでPZを起動するように求めるダイアログボックスとして表示されます。",
 	IGUI_RadialMenuKeyToggle = "キーを押す度にラジアルメニューの表示/非表示",
+	IGUI_Generator_IsToxic = "この場所で作動させると排気ガスで屋内が汚染されます。",
 
 }
