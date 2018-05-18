@@ -1133,16 +1133,4 @@
 	UI_ServerOption_DisableRadioModerator_tooltip = "チェックボックスを有効にすると、「moderator」アクセスレベルのプレイヤーからの無線送信を無効にします。",
 	UI_ServerOption_DisableRadioInvisible_tooltip = "チェックボックスを有効にすると、見えないプレーヤーからの無線送信を無効にします。",
 
-
-	IGUI_ServerToolBox_Title = "サーバー接続ツール",
-	IGUI_ServerToolBox_ExternalIP = "現在の外部IP: %1",
-	IGUI_ServerToolBox_IPUnknown = "IP 不明",
-	IGUI_ServerToolBox_UserConnecting = "%1 に接続しています。",
-
-
-
-
-
-
-
 }

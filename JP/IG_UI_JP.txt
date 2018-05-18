@@ -860,5 +860,9 @@
 	IGUI_ServerToolBox_Invite5 = "招待状は、特別なパラメータやチャットボックスでPZを起動するように求めるダイアログボックスとして表示されます。",
 	IGUI_RadialMenuKeyToggle = "キーを押す度にラジアルメニューの表示/非表示",
 	IGUI_Generator_IsToxic = "この場所で作動させると排気ガスで屋内が汚染されます。",
+	IGUI_ServerToolBox_Title = "サーバー接続ツール",
+	IGUI_ServerToolBox_ExternalIP = "現在の外部IP: %1",
+	IGUI_ServerToolBox_IPUnknown = "IP 不明",
+	IGUI_ServerToolBox_UserConnecting = "%1 に接続しています。",
 
 }
